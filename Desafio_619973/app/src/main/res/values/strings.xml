@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Desafio</string>
+    <string name="name">Nome</string>
+    <string name="id">Id</string>
+    <string name="site">Site</string>
+    <string name="description">Descrição</string>
+</resources>
